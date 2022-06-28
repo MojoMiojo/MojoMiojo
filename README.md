@@ -1,5 +1,5 @@
 ```swift
- /// Helo there!
+ /// Hello there!
  func darkSide() {
         print(  "                       .-.\n" +
                 "                      |_:_|" + "\tMozart Junio Alves de Sousa\n" +
