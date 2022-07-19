@@ -32,7 +32,7 @@
     <br>
     <img src="https://github-readme-stats.vercel.app/api?username=MojoMiojo&count_private=true&show_icons=true&theme=radical&hide=contribs">
     &nbsp;
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MojoMiojo&layout=compact&langs_count=6&theme=radical">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MojoMiojo&layout=compact&langs_count=6&theme=radical&card_width=250">
 </p>
 
 <!--
