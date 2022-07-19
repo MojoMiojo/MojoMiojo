@@ -25,7 +25,16 @@
                 "                         '-'");
     } //end darkSide()
 ```
-_https://github.com/MojoMiojo/Framework-Padawans-2020_
+
+<p align="center">
+    <i>https://github.com/MojoMiojo/Framework-Padawans-2020<i>
+    <br>
+    <br>
+    <img src="https://github-readme-stats.vercel.app/api?username=MojoMiojo&count_private=true&show_icons=true&theme=radical&hide=contribs">
+    &nbsp;&nbsp;
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MojoMiojo&layout=compact&langs_count=6&theme=radical">
+</p>
+
 <!--
 **MojoMiojo/MojoMiojo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
