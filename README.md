@@ -26,7 +26,7 @@
     } //end darkSide()
 ```
 
-<p align="center">
+<p align="left">
     <i>https://github.com/MojoMiojo/Framework-Padawans-2020<i>
     <br>
     <br>
