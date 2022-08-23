@@ -25,17 +25,25 @@
                 "                         '-'");
     } //end darkSide()
 ```
+<i>https://github.com/MojoMiojo/Framework-Padawans-2020<i>
+<div align="left">
+    <a href="https://github.com/MojoMiojo">
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MojoMiojo&count_private=true&include_all_commits=true&show_icons=true&theme=radical&hide=contribs&hide_border=false">
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MojoMiojo&&hide_border=false&layout=compact&langs_count=6&theme=radical">
+    </a>
+</div>
 
+<!--
 <p align="left">
     <i>https://github.com/MojoMiojo/Framework-Padawans-2020<i>
     <br>
     <br>
-    <img src="https://github-readme-stats.vercel.app/api?username=MojoMiojo&count_private=true&show_icons=true&theme=radical&hide=contribs">
+    <img " src="https://github-readme-stats.vercel.app/api?username=MojoMiojo&count_private=true&show_icons=true&theme=radical&hide=contribs">
     &nbsp;
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MojoMiojo&layout=compact&langs_count=6&theme=radical&card_width=250">
+    <img " src="https://github-readme-stats.vercel.app/api/top-langs/?username=MojoMiojo&layout=compact&langs_count=6&theme=radical&card_width=250">
 </p>
 
-<!--
+
 **MojoMiojo/MojoMiojo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
